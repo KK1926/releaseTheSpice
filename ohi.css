@@ -1,0 +1,19 @@
+.copyrights {
+  height: 500px;
+  font-size: 40px;
+  text-align: center;
+  line-height: 70px;
+  background-image:
+   url("https://www.pakutaso.com/shared/img/thumb/zu619DSC_0412_TP_V.jpg");
+  background-size: cover;
+  filter: brightness(0.9);
+}
+
+.mad {
+  height: 100%;
+  color: gray;
+}
+
+.shirts img {
+  height: rgba(255, 0, 0, 0.5);
+}
